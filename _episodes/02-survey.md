@@ -1,6 +1,6 @@
 ---
 title: "Survey"
-slug: -survey
+slug: Lesson Title-survey
 layout: page
 ---
 
