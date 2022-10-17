@@ -1,6 +1,6 @@
 ---
 title: "Survey"
-slug: lesson-temp-survey
+slug: lesson-template-survey
 layout: page
 ---
 
